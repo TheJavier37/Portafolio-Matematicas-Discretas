@@ -7,6 +7,20 @@
 
 # 📘 Recapitulación: Lógica Proposicional
 
+-[Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)  
+-[¿Qué es la lógica proposicional?](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#1-qu%C3%A9-es-la-l%C3%B3gica-proposicional)  
+-[¿Qué es una proposición?](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#2-qu%C3%A9-es-una-proposici%C3%B3n)  
+-[Conectores lógicos](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#3-conectores-l%C3%B3gicos-s%C3%ADmbolos-y-significado)  
+-[Jerarquía de los conectores](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#4-jerarqu%C3%ADa-de-los-conectores-precedencia)  
+-[Tablas de verdad](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#5-tablas-de-verdad-principales)    
+-[Tautología, contradicción y contingencia](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#6-tautolog%C3%ADa-contradicci%C3%B3n-y-contingencia)  
+-[Leyes/identidades fundamentales de las proposiciones](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#7-leyesidentidades-fundamentales-de-las-proposiciones)  
+-[Reglas de inferencia](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#8-reglas-de-inferencia-formas-v%C3%A1lidas-de-razonamiento)  
+-[Ejemplo corto](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#9-ejemplo-corto-deducci%C3%B3n)
+-[Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)   
+
+---
+
 ## 1. ¿Qué es la lógica proposicional?
 
 La lógica proposicional (o lógica sentencial) estudia proposiciones —enunciados que son verdadero (V) o falso (F)— y las relaciones entre ellas mediante operadores (conectores) lógicos. Es la base formal para razonar sobre afirmaciones compuestas y para construir demostraciones.
