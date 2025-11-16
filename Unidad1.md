@@ -5,7 +5,7 @@
 
 ---
 
-# 📘 Recapitulación: Lógica Proposicional
+# 📖 Índice de contenidos
 
 [-📦Tareas entregadas](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#-tareas-entregadas)  
 [-¿Qué es la lógica proposicional?](https://github.com/TheJavier37/Portafolio-Matematicas-Discretas/blob/main/Unidad1.md#1-qu%C3%A9-es-la-l%C3%B3gica-proposicional)  
@@ -21,6 +21,9 @@
 
 ---
 
+# 📘 Recapitulación: Lógica Proposicional
+
+---
 ## 1. ¿Qué es la lógica proposicional?
 
 La lógica proposicional (o lógica sentencial) estudia proposiciones —enunciados que son verdadero (V) o falso (F)— y las relaciones entre ellas mediante operadores (conectores) lógicos. Es la base formal para razonar sobre afirmaciones compuestas y para construir demostraciones.
