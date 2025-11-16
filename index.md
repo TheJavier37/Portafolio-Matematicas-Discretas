@@ -18,18 +18,18 @@ _Espacio organizado para documentar avances, reflexiones y productos de cada uni
 
 ---
 
-## 📂 Unidad 1  
+## 📂 Unidad 1: Lógica Matemática  
 _Introduccion a la logica proposicional, tablas de verdad, leyes y sus reglas de inferencia_  
 ## [Ir a la Unidad 1](Unidad1.md)  
 
 ---
 
-## 📂 Unidad 2  
+## 📂 Unidad 2: Álgebra de Boole  
 _Por ver._  
 
 ---
 
-## 📂 Unidad 3  
+## 📂 Unidad 3: Grafos y Árboles  
 _Por ver._  
 
 ---
